@@ -2,7 +2,7 @@ Gemini-Pro-Web-App
 
 ## Overview
 
-A web application based on LLM and LMM Gemini Pro.
+A web application based on LLM Gemini Pro.
 
 ## Built With
 - Framework used: Streamlit, Langchain
